@@ -62,3 +62,7 @@ The `Service` worksheet contains only `ServiceName`, `ResourceGroupName`, `Subsc
 This remains a current-configuration inventory, not proof of compromise, historical credential exposure, runtime safety, or completed credential rotation. Check coverage issues before interpreting an empty worksheet. Sovereign-cloud endpoints are not supported by this helper.
 
 Reference: [Microsoft named-value guidance](https://learn.microsoft.com/azure/api-management/api-management-howto-properties).
+
+## Author
+
+[erradimourad](https://github.com/erradimourad)

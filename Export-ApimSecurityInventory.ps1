@@ -20,6 +20,9 @@ the current working directory.
 .EXAMPLE
 .\Export-ApimSecurityInventory.ps1 -SubscriptionId '00000000-0000-0000-0000-000000000001' -ResourceGroupName 'api-rg' -ServiceName 'team-apim'
 .NOTES
+Author: erradimourad
+GitHub: https://github.com/erradimourad
+
 Requires the ImportExcel module. Treat workbook metadata as restricted operational
 information. Review MZK9-GH0 in Service Health/Microsoft Support and rotate affected
 credentials separately; copying a value into Key Vault does not invalidate it.

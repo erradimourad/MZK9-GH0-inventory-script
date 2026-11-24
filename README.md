@@ -33,3 +33,7 @@ Keep [ApimSecurity.Common.ps1](ApimSecurity.Common.ps1) alongside [Export-ApimSe
 The workbook is created in the current working directory with an APIM-named UTC timestamp. Review `CoverageIssues` before interpreting an empty worksheet. Generated reports and credential files are excluded from Git by default; do not force-add them.
 
 This is a current-configuration inventory, not proof of exploitation, historical exposure, or completed credential rotation. The default incident reference `MZK9-GH0` is configurable. No migration or credential rotation is performed.
+
+## Author
+
+[erradimourad](https://github.com/erradimourad)
