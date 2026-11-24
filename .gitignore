@@ -1,0 +1,17 @@
+*.xlsx
+*.xls
+*.xlsm
+*.csv
+*.json
+*.http
+*.har
+*.log
+*.zip
+.env
+.env.*
+*.pfx
+*.p12
+*.pem
+*.key
+.azure/
+.vscode/
